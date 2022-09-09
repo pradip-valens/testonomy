@@ -1,3 +1,4 @@
 fucn processing() {
     call snowflake()
+    call zero();
 }
