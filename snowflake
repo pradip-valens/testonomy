@@ -3,4 +3,5 @@ fucn snowflake(data) {
     close();
     end();
     Zero();
+    don(e);
 }
