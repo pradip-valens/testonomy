@@ -2,4 +2,5 @@ fucn snowflake(data) {
     send_me();
     close();
     end();
+    Zero();
 }
