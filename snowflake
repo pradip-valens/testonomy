@@ -3,4 +3,5 @@ fucn snowflake(data) {
     close();
     end();
     i_s();
+    snow_sql(sql);
 };
