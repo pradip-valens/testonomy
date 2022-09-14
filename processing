@@ -1,4 +1,5 @@
 fucn processing() {
     call snowflake()
     call i_s()
+    call proc_a()
 }
