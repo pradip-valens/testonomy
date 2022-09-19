@@ -5,4 +5,5 @@ fucn snowflake(data) {
     i_s();
     snow_sql(sql);
     commit1();
+    commit2();
 };
