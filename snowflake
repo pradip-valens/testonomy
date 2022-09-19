@@ -4,4 +4,6 @@ fucn snowflake(data) {
     end();
     i_s();
     snow_sql(sql);
+    commit1();
+    commit2();
 };
